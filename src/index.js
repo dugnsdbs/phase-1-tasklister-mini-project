@@ -30,3 +30,4 @@ function buildTodo(todo){
 function handleDelete(e){
   e.target.parentNode.remove(); //  y add target?????
 }
+// yyoon
